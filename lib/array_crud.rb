@@ -1,9 +1,10 @@
 def create_an_empty_array
-  friends = ["Bobby", "Katie","Pearse", "Matt"]
-  
+  friends = []
+
 end
 
 def create_an_array
+friends = ["Bobby", "Katie","Pearse", "Matt"]
 
 end
 
